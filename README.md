@@ -25,3 +25,5 @@ www.linkedin.com/in/alemseged-muleta-b362b135a
 
 GitHub:
 https://github.com/Alem-Moa
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alem-Moa&show_icons=true&theme=tokyonight)
