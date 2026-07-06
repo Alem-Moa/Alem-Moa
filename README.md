@@ -18,8 +18,10 @@
 
 📫 Contact
 
-GitHub:
-https://github.com/Alem-Moa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alemseged-muleta-b362b135a)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alemsegedmuleta1@gmail.com)
+
+
+GitHub:
+https://github.com/Alem-Moa
