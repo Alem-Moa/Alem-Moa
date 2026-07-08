@@ -1,27 +1,41 @@
 # Hi 👋, I'm Alemseged Muleta
 
-## Computer Science Student
+### 🎓 Computer Science Graduate | Software Engineer
+* 🚀 **Alumnus of Haramaya University** (Class of 2026)
+* 💡 Passionate about building impactful software, scalable web architectures, and smart mobile ecosystems.
+* 🛠️ Driven by blending technical engineering with intuitive, design-forward user experiences.
 
-🎓 Computer Science student at Haramaya University
+---
 
-🌱 Currently learning
-- React
-- Node.js
-- MongoDB
-- Mobile Application Development
+### 💻 Tech Stack & Ecosystem
 
-💻 Interested in
-- Web Development
-- Mobile Apps
-- AI
-- Open Source
+#### 🌐 Languages & Core
+![Python](https://shields.io) ![JavaScript](https://shields.io) ![C#](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
-📫 Contact
+#### 🚀 Frameworks & Databases (Actively Mastering)
+![React](https://shields.io) ![NodeJS](https://shields.io) ![MongoDB](https://shields.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alemseged-muleta-b362b135a)
+---
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alemsegedmuleta1@gmail.com)
+### ⚙️ Core Technical Focus
+* 🌐 **Full-Stack Web Development** – Crafting dynamic, responsive interfaces backed by robust servers.
+* 📱 **Mobile Application Development** – Designing cross-platform native experiences.
+* 🤖 **Artificial Intelligence & Systems** – Testing and integrating machine learning architectures.
+* 🤝 **Open Source & Freelance** – Collaborating on open codebases and building user-centric client software.
 
+---
 
-GitHub:
-https://github.com/Alem-Moa
+### 📊 GitHub Ecosystem Engagement
+<p align="left">
+  <img src="https://vercel.app" alt="Alex's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Alex's Top Languages" height="180" />
+</p>
+
+---
+
+### 📫 Let's Collaborate & Connect
+
+[![LinkedIn Portfolio](https://shields.io)](https://www.linkedin.com/in/alemseged-muleta-b362b135a)
+[![Email Contact](https://shields.io)](mailto:alemsegedmuleta1@gmail.com)
+
+[📂 View My Code Repositories](https://github.com/Alem-Moa)
