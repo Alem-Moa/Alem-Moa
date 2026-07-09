@@ -10,10 +10,10 @@
 ### 💻 Tech Stack & Ecosystem
 
 #### 🌐 Languages & Core
-![Python]() ![JavaScript](https://shields.io) ![C#](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+Python JavaScript C# HTML5 CSS3
 
 #### 🚀 Frameworks & Databases (Actively Mastering)
-![React](https://shields.io) ![NodeJS](https://shields.io) ![MongoDB](https://shields.io)
+React NodeJS MongoDB
 
 ---
 
@@ -26,10 +26,6 @@
 ---
 
 ### 📊 GitHub Ecosystem Engagement
-<p align="left">
-  <img src="https://vercel.app" alt="Alex's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Alex's Top Languages" height="180" />
-</p>
 
 ---
 
