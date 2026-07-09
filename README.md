@@ -10,7 +10,7 @@
 ### 💻 Tech Stack & Ecosystem
 
 #### 🌐 Languages & Core
-![Python](https://shields.io) ![JavaScript](https://shields.io) ![C#](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+![Python]() ![JavaScript](https://shields.io) ![C#](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
 #### 🚀 Frameworks & Databases (Actively Mastering)
 ![React](https://shields.io) ![NodeJS](https://shields.io) ![MongoDB](https://shields.io)
